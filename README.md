@@ -1,4 +1,6 @@
+# React Recipe App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## The app is deploy at [github.io](https://kengneruphine.github.io/react-recipe-app)
 
 ## Available Scripts
 
